@@ -1,0 +1,64 @@
+ident
+line
+300 200 0 260 260 0
+line
+260 260 0 200 300 0
+line
+200 300 0 260 340 0
+line
+260 340 0 300 400 0
+line
+300 400 0 340 340 0
+line
+340 340 0 400 300 0
+line
+400 300 0 340 260 0
+line
+340 260 0 300 200 0
+display
+
+ident
+scale
+.5 .5 .5
+apply
+display
+
+ident
+move
+50 50 0
+apply
+display
+
+ident
+rotate
+x 30
+apply
+display
+
+ident
+rotate
+y 20
+apply
+display
+
+ident
+rotate
+z 20
+apply
+display
+
+ident
+scale
+2.2 2.2 2.2
+apply
+display
+
+ident
+move
+-100 -300 0
+apply
+display
+
+save
+img.png
+quit
